@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TPI/Tecniche di gestione della memoria.md",
+                "file": "TPI/CODICE RILOCABILE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tecniche di gestione della memoria"
+              "title": "CODICE RILOCABILE"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TPI/Tecniche di gestione della memoria.md",
+                "file": "TPI/CODICE RILOCABILE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Tecniche di gestione della memoria"
+              "title": "Riferimenti a CODICE RILOCABILE"
             }
           },
           {
@@ -162,44 +162,46 @@
   },
   "active": "55a66ea3cfc10e11",
   "lastOpenFiles": [
-    "quartz/public/index-2.html",
+    "quartz/public/TPI/Tecniche-di-gestione-della-memoria.html",
+    "quartz/content/TPI/Tecniche di gestione della memoria.md",
+    "quartz/content/TPI/metadati.md",
+    "quartz/content/TPI/installazione VM.md",
+    "quartz/content/TPI/VM.md",
+    "quartz/content/TPI/SO.md",
+    "quartz/content/TPI/PROGRAMMA e PROCESSO.md",
+    "quartz/content/TPI/Memoria virtuale.md",
+    "quartz/content/TPI/LINUX.md",
+    "quartz/content/TPI/INTERPRETE.md",
+    "quartz/content/TPI/Compilatore.md",
+    "quartz/content/TPI/CODICE RILOCABILE.md",
+    "quartz/content/TPI/CLI.md",
+    "quartz/content/index.md",
+    "quartz/content/index 2.md",
+    "quartz/content/TPI",
+    "quartz/content/SRI",
+    "quartz/content",
+    "TPI/Tecniche di gestione della memoria.md",
+    "tags/index.html",
+    "tags",
+    "static/giscus/light.css",
+    "static/giscus/dark.css",
+    "static/og-image.png",
+    "static/icon.png",
+    "static/giscus",
+    "static/contentIndex.json",
+    "static",
     "TPI/PROGRAMMA e PROCESSO.md",
     "TPI/VM.md",
     "TPI/SO.md",
     "TPI/Compilatore.md",
     "TPI/CODICE RILOCABILE.md",
-    "TPI/Tecniche di gestione della memoria.md",
     "TPI/INTERPRETE.md",
     "TPI/Memoria virtuale.md",
     "TPI/metadati.md",
     "TPI/LINUX.md",
     "TPI/installazione VM.md",
-    "index.md",
-    "quartz/public/404.html",
-    "quartz/public/static/giscus/light.css",
-    "quartz/public/static/giscus/dark.css",
     "quartz/public/static/og-image.png",
     "quartz/public/static/icon.png",
-    "quartz/public/static/giscus",
-    "quartz/public/static/contentIndex.json",
-    "quartz/public/static",
-    "quartz/public/index.xml",
-    "quartz/public/sitemap.xml",
-    "quartz/public/tags/index.html",
-    "quartz/public/tags",
-    "TPI/CLI.md",
-    "SRI/TPI/VM.md",
-    "SRI/TPI/SO.md",
-    "SRI/TPI/LINUX.md",
-    "SRI/TPI/installazione di una macchina virtuale.md",
-    "Screenshot 2024-10-27 alle 12.55.02.png",
-    "SRI/TPI/Compilatore.md",
-    "SRI/TPI/INTERPRETE.md",
-    "SRI/TPI/metadati.md",
-    "SRI/TPI/CLI.md",
-    "Comandi di Navigazione.md",
-    "Comandi Principali di Linux.md",
-    "Benvenuto.md",
-    "crea un collegamento.md"
+    "Screenshot 2024-10-27 alle 12.55.02.png"
   ]
 }
