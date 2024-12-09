@@ -1,37 +1,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://quartz.jzhao.xyz/TPI/CLI</loc>
-    <lastmod>2024-11-11T14:30:37.713Z</lastmod>
+    <lastmod>2024-10-27T10:57:13.927Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/TPI/CODICE-RILOCABILE</loc>
-    <lastmod>2024-11-11T14:30:37.713Z</lastmod>
+    <lastmod>2024-12-08T21:50:16.411Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/TPI/Compilatore</loc>
-    <lastmod>2024-11-11T14:30:37.713Z</lastmod>
+    <lastmod>2024-10-27T11:20:41.467Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/TPI/INTERPRETE</loc>
-    <lastmod>2024-11-11T14:30:37.713Z</lastmod>
+    <lastmod>2024-10-27T11:13:36.013Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/TPI/LINUX</loc>
-    <lastmod>2024-11-11T14:30:37.713Z</lastmod>
+    <lastmod>2024-10-27T11:20:00.009Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/TPI/Memoria-virtuale</loc>
-    <lastmod>2024-11-11T14:30:37.713Z</lastmod>
+    <lastmod>2024-11-04T10:40:57.171Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/TPI/PROGRAMMA-e-PROCESSO</loc>
-    <lastmod>2024-11-11T14:30:37.713Z</lastmod>
+    <lastmod>2024-12-08T21:50:16.411Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/TPI/SO</loc>
-    <lastmod>2024-11-11T14:30:37.713Z</lastmod>
+    <lastmod>2024-11-04T10:10:15.096Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/TPI/Tecniche-di-gestione-della-memoria</loc>
+    <lastmod>2024-12-08T21:50:16.413Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/TPI/VM</loc>
-    <lastmod>2024-11-11T14:30:37.713Z</lastmod>
+    <lastmod>2024-11-04T09:01:43.079Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/TPI/installazione-VM</loc>
-    <lastmod>2024-11-11T14:30:37.713Z</lastmod>
+    <lastmod>2024-11-04T09:02:03.819Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/TPI/metadati</loc>
+    <lastmod>2024-10-27T10:39:54.015Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/index-2</loc>
     <lastmod>2024-11-11T14:30:37.713Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
-    <lastmod>2024-11-11T14:30:37.713Z</lastmod>
+    <lastmod>2024-11-11T14:30:37.000Z</lastmod>
   </url></urlset>
