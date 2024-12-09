@@ -7,9 +7,9 @@ Per essere eseguito, un programma deve essere **interpretato** o **compilato**. 
 ==**Un Processo possiede una traccia di esecuzione**==(sequenza di stati assunti dal processore durante l’esecuzione del processo).
 
 A un **processo** sono associati:
-- ==**Codice eseguibile**==
+- **Codice eseguibile**
 - **Spazio di memoria con i** ==**dati**== **e lo spazio per lo Stack**
-- ==Il **PCB**(==process control Block) o descrittore di processo: ==**struttura apposita che contiene informazioni dello stato del processo,**== **come**: ==**PID**== ( valore numeri da 1 a 30000) pid =**0** indica un processo speciale chiamato swapper, PID =**1**  appartiene al processo **INIT**( **primo processo creato all’avvio del sistema e rimane in funzione tutto il tempo**); ==**puntatore**==(indirizzo del descrittore del processo che l’ha generato(**processo padre**)), l==a priorità==, ==**stato di avanzamento**==(contenuto dei registri di lavoro), ==**immagine della memoria**==, **info relative alle** ==**altre risorse** assegnate al processo==.
+- Il **PCB**(process control Block) o descrittore di processo: struttura apposita che contiene informazioni dello stato del processo come: ==PID== ( valore numeri da 1 a 30000) pid =**0 indica un processo speciale chiamato swapper, PID =**1**  appartiene al processo **INIT**( **primo processo creato all’avvio del sistema e rimane in funzione tutto il tempo**); ==puntatore==(indirizzo del descrittore del processo che l’ha generato(**processo padre**)), ==a priorità==, ==stato di avanzamento==(contenuto dei registri di lavoro), ==immagine della memoria==, info relative alle ==altre risorse assegnate al processo==.
 
 Processo chiamato **padre** può generare copie di se stesso chiamate **processi figli.**
 
