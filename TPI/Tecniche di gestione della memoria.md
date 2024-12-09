@@ -24,6 +24,12 @@ Il **partizionamento variabile** è un altro metodo in cui la memoria viene sudd
 - **Worst-fit**: sceglie la zona libera più grande
 - **Next-fit**: cerca il primo spazio libero in grado di accogliere il processo partendo dallo spaziolibero successivo all’ultimo processo allocato. Questo evita di allocare i processi tutti all’inizio della RAM.
 
+
+La **memoria virtuale** è una tecnica che permette al computer di usare una parte del disco rigido come estensione della RAM. Quando la **RAM è piena**, il sistema operativo **sposta temporaneamente su disco alcuni dati o processi inattivi (swap out) per fare spazio in RAM per altri programmi attivi**. Questo consente di eseguire programmi più grandi della memoria fisica disponibile, dando l'impressione di avere più RAM di quella realmente installata.
+
+**Program counter cambia:**
+Il **program counter** (PC) è un registro che tiene traccia dell'istruzione successiva da eseguire. Quando avviene uno **swap out** in memoria virtuale, cioè lo spostamento temporaneo di un processo inattivo sul disco, il sistema deve aggiornare il program counter per ricordare a che punto si trovava l’esecuzione di quel processo.
+
 ## 3. Paginazione
 La **paginazione** è una tecnica che suddivide la memoria in blocchi di dimensione fissa chiamati **pagine fisiche** o frame . Ogni processo viene suddiviso in **pagine logiche** di dimensione fissa, e queste pagine possono essere allocate in qualsiasi posizione nella memoria fisica.
 Il numero di pagine logiche può differire dal numero di pagine fisiche.
